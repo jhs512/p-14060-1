@@ -2,7 +2,11 @@ plugins {
     id("java")
 }
 
+<<<<<<< HEAD
 group = "com.back"
+=======
+group = "org.example"
+>>>>>>> 25515c1 (work)
 version = "1.0-SNAPSHOT"
 
 repositories {
